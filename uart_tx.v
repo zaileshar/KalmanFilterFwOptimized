@@ -8,3 +8,4 @@ module uart_tx (
         else out <= ~out;
     end
 endmodule
+// Memory layout adjusted for cache hit rate

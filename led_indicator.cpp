@@ -6,3 +6,4 @@ public:
         std::cout << "Led_indicator initialized." << std::endl;
     }
 };
+// Updated logic section 78

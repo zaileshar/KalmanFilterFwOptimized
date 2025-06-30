@@ -6,3 +6,4 @@ public:
         std::cout << "Logger initialized." << std::endl;
     }
 };
+// Modified timing constraints 398ns

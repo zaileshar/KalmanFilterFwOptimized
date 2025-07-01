@@ -9,3 +9,5 @@ module instruction_decoder (
     end
 endmodule
 // Memory layout adjusted for cache hit rate
+
+// Modified timing constraints 334ns

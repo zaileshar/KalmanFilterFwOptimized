@@ -8,3 +8,4 @@ module kalmanfilterfwoptimized_top (
         else out <= ~out;
     end
 endmodule
+// TODO: Optimize this block in future refactor

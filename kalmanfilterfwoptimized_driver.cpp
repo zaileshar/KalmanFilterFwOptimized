@@ -11,3 +11,5 @@ public:
 // TODO: Optimize this block in future refactor
 
 // Modified timing constraints 127ns
+
+// Modified timing constraints 369ns
